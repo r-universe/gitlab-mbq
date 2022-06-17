@@ -1,0 +1,14 @@
+[
+  {
+    "package": "Boruta",
+    "oncran": true
+  },
+  {
+    "package": "praznik",
+    "oncran": true
+  },
+  {
+    "package": "rFerns",
+    "oncran": true
+  }
+]
